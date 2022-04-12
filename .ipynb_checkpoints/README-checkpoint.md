@@ -4,7 +4,7 @@ This repository shows the codes & data of the SIF partitioning project, in which
 
 ### Structure of the repository
 
-`
+```
 .
 ├── README.md
 ├── codes
@@ -16,7 +16,7 @@ This repository shows the codes & data of the SIF partitioning project, in which
 └── input_data
     ├── Readme.txt
     └── test_data_SCOPE.csv
-`
+```
 
 
 * The `NNSIF_partitioning_whole_process.ipynb` file shows the complete process to partition CO2 fluxes using the NN_SIF model, which includes: 1) data preprocessing, 2) model training, 3) model prediction, and 4) model evaluation.
