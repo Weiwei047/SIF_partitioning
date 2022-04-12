@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/466346436.svg)](https://zenodo.org/badge/latestdoi/466346436)
 ## SIF_partitioning
 
 This repository shows the codes & data of the SIF partitioning project, in which we show that neural networks informed by SIF observations, NN_SIF, can successfully be used to partition ecosystem carbon fluxes and retrieve the GPP–SIF relationship at the ecosystem scale.
