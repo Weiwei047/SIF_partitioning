@@ -9,16 +9,26 @@ This repository shows the codes & data of the SIF partitioning project, in which
 
 ```
 .
+├── LICENSE
 ├── README.md
 ├── codes
 │   ├── NNSIF_partitioning_whole_process.ipynb
+│   ├── example_HarvardForest.ipynb
+│   ├── example_SCOPE.ipynb
 │   └── utils
 │       ├── NNSIF_model.py
+│       ├── NNSIF_model_v1.py
 │       ├── plot.py
+│       ├── plot_v1.py
 │       └── preprocess.py
+├── environment.yml
 └── input_data
     ├── Readme.txt
-    └── test_data_SCOPE.csv
+    ├── in_situ_dataset_Harvard_Forest.csv
+    ├── test_data_SCOPE.csv
+    └── test_data_SCOPE_v1.csv
+
+
 ```
 
 
