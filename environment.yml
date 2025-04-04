@@ -1,0 +1,14 @@
+channels:
+ - conda-forge
+ - defaults
+dependencies:
+ - python=3.9*
+ - ipykernel
+ - jupyterlab
+ - matplotlib
+ - netcdf4
+ - numpy
+ - pandas
+ - scipy
+ - scikit-learn
+ - tensorflow=2.11.1
