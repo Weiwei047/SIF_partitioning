@@ -66,7 +66,7 @@ def regression_line(x,y,ax,xlim,RMSE_4dig=False,num_seq=None,
 
             
             
-def GPP_SIF_dependence(data,SIF_var,GPP_var,ax,
+def GPP_SIF_dependence(data,SIF_var,GPP_var,xlim,ylim,ax,
                        c,cmap,fig,cf_label,s,
                        vmin=None,vmax=None,resort=False,ascending=True,shrink=0.8):
     
