@@ -114,8 +114,8 @@ def include_predictions(data,NEE_NN,GPP_NN,Reco_NN,SIF_NN):
 
 def div_daynight(data):
     
-    day = data[data.APAR_label==1]
-    night = data[data.APAR_label==0]
+    day = data[data.PAR_label==1]
+    night = data[data.PAR_label==0]
     
     return day, night
 
